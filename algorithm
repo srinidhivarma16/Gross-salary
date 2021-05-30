@@ -1,0 +1,13 @@
+Start
+Declare variables t,n,i
+Declare integers Basic Salary, HRA and DA
+Initilize the value of Basic Salary
+If Basic Salary is less than 1500
+HRA = 10% of Base Salary
+DA = 90% of Base Salary
+Else
+Basic Salary is greaterthan or equal to1500
+HRA = 500
+DA = 98% of Base Salary
+Print the value of HRA and DA
+End
